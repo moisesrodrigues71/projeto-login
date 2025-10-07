@@ -130,10 +130,7 @@ form > a.botao {
     padding-top: 5px;
     margin-top: 5px;
     background-color:white
-    color: #246d6a;
-    border: 1px solid #49a09d;
-    border-radius: 7px;
-    text-decoration: none;
+    
 }
 
 form > a.botao:hover {
